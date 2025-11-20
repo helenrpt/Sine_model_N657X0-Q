@@ -1,0 +1,22 @@
+# Build artifacts
+Debug/
+Release/
+*.o
+*.elf
+*.map
+*.bin
+*.hex
+*.list
+*.su
+*.d
+
+# IDE specific
+.settings/
+.metadata/
+.cproject
+.project
+
+# Temporary files
+*.bak
+*.swp
+*~
