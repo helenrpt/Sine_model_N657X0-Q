@@ -2,7 +2,7 @@
   ******************************************************************************
   * @file    sine_model.h
   * @author  AST Embedded Analytics Research Platform
-  * @date    2025-11-20T19:52:32+0100
+  * @date    2025-11-20T20:40:50+0100
   * @brief   AI Tool Automatic Code Generator for Embedded NN computing
   ******************************************************************************
   * @attention

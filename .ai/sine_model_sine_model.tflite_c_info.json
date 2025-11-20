@@ -333,44 +333,44 @@
   ],
   "environment": {
     "generated_model": {
-      "generated_time": "2025-11-20T19:52:32+0100",
+      "generated_time": "2025-11-20T20:40:50+0100",
       "model_files": [
         {
           "name": "sine_model_data_params.h",
-          "signature": "0xe63bc67281b90bbd55cd3b54eea577fe"
+          "signature": "0xe2c828a381f0ae11f8ffd11dde32b46c"
         },
         {
           "name": "sine_model_data_params.c",
-          "signature": "0xc58628448d14a4fedb69579bf63f8667"
+          "signature": "0xf4f21fe57cabab7366ed2fe3cbc4d357"
         },
         {
           "name": "sine_model_data.h",
-          "signature": "0x9f8ca4eae35877a5468d8cbd5cba0ab7"
+          "signature": "0x74702e631721532afc769d3027df2763"
         },
         {
           "name": "sine_model_data.c",
-          "signature": "0xa258b7cdcc3ec770346ca80639a41251"
+          "signature": "0xd0b482e94937e9e29f6387722d6c4df3"
         },
         {
           "name": "sine_model_config.h",
-          "signature": "0xd45c81af3d1d57bbfcc72abfc6d4add4"
+          "signature": "0xada99980b99169da190ce45ab827f8ce"
         },
         {
           "name": "sine_model.h",
-          "signature": "0x31cf5c5e2462557666dc43b19ee5bf5a"
+          "signature": "0x546362bb590a924d5f2f6d02d2ed781c"
         },
         {
           "name": "sine_model.c",
-          "signature": "0xdfdf9807754c0c4e93e806b1c3e9a182"
+          "signature": "0x0a6f9a4219e742f22815f597b173c5c0"
         }
       ],
       "name": "sine_model"
     },
-    "network_signature": "0x957b603b3454953a",
+    "network_signature": "0xdc3753a95aec6266",
     "test_name": "",
     "tools": [
       {
-        "arguments": "generate --target stm32n6 --name sine_model -m C:/Users/a511018/Desktop/USMB MASTER/chapter-4/sine_model.tflite --compression none --verbosity 1 --memory-pool C:\\Users\\a511018\\AppData\\Local\\Temp\\mxAI_workspace820410354760010104227178385999337\\mempools.json --workspace C:/Users/a511018/AppData/Local/Temp/mxAI_workspace820410354760010104227178385999337 --output C:/Users/a511018/.stm32cubemx/sine_model_output",
+        "arguments": "generate --target stm32n6 --name sine_model -m C:/Users/a511018/Desktop/USMB MASTER/Sine_model_N657X0-Q/Sinus_model/sine_model.tflite --compression none --verbosity 1 --memory-pool C:\\Users\\a511018\\AppData\\Local\\Temp\\mxAI_workspace111028338635006151978609294709926\\mempools.json --workspace C:/Users/a511018/AppData/Local/Temp/mxAI_workspace111028338635006151978609294709926 --output C:/Users/a511018/.stm32cubemx/sine_model_output",
         "environment": [
           "STATS_TYPE=X-CUBE-AI"
         ],

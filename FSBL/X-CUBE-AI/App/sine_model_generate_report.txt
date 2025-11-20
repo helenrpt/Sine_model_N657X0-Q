@@ -1,18 +1,18 @@
 ST Edge AI Core v2.2.0-20266 2adc00962
-Created date          : 2025-11-20 19:52:33
-Parameters            : generate --target stm32n6 --name sine_model -m C:/Users/a511018/Desktop/USMB MASTER/chapter-4/sine_model.tflite --compression none --verbosity 1 --memory-pool C:\Users\a511018\AppData\Local\Temp\mxAI_workspace820410354760010104227178385999337\mempools.json --workspace C:/Users/a511018/AppData/Local/Temp/mxAI_workspace820410354760010104227178385999337 --output C:/Users/a511018/.stm32cubemx/sine_model_output
+Created date          : 2025-11-20 20:40:52
+Parameters            : generate --target stm32n6 --name sine_model -m C:/Users/a511018/Desktop/USMB MASTER/Sine_model_N657X0-Q/Sinus_model/sine_model.tflite --compression none --verbosity 1 --memory-pool C:\Users\a511018\AppData\Local\Temp\mxAI_workspace111028338635006151978609294709926\mempools.json --workspace C:/Users/a511018/AppData/Local/Temp/mxAI_workspace111028338635006151978609294709926 --output C:/Users/a511018/.stm32cubemx/sine_model_output
 
 Exec/report summary (generate)
 ---------------------------------------------------------------------------------------------------------------------------
-model file         :   C:\Users\a511018\Desktop\USMB MASTER\chapter-4\sine_model.tflite                                    
+model file         :   C:\Users\a511018\Desktop\USMB MASTER\Sine_model_N657X0-Q\Sinus_model\sine_model.tflite              
 type               :   tflite                                                                                              
 c_name             :   sine_model                                                                                          
 compression        :   none                                                                                                
 options            :   allocate-inputs, allocate-outputs, multi-heaps                                                      
 optimization       :   balanced                                                                                            
 target/series      :   stm32n6                                                                                             
-memory pool        :   C:\Users\a511018\AppData\Local\Temp\mxAI_workspace820410354760010104227178385999337\mempools.json   
-workspace dir      :   C:\Users\a511018\AppData\Local\Temp\mxAI_workspace820410354760010104227178385999337                 
+memory pool        :   C:\Users\a511018\AppData\Local\Temp\mxAI_workspace111028338635006151978609294709926\mempools.json   
+workspace dir      :   C:\Users\a511018\AppData\Local\Temp\mxAI_workspace111028338635006151978609294709926                 
 output dir         :   C:\Users\a511018\.stm32cubemx\sine_model_output                                                     
 model_fmt          :   float                                                                                               
 model_name         :   sine_model                                                                                          
